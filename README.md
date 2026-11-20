@@ -1,3 +1,9 @@
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/arbbagiyo/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/arbbagiyo/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Built for the [Clip GTA 6 for the most YouTube views](https://make.fun/bounty/gta6-clipper-01) bounty on make.fun.
+
 # GTA 6's Wildest 12 Seconds — Heli, Jetski & a Plane on a Bike
 
 A 30-second vertical Short cut from Rockstar's Grand Theft Auto VI Trailer 2
